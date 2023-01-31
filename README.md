@@ -8,7 +8,13 @@ If you do not have yarn installed on your computer, you execute the following co
 npm install --global yarn
 ```
 
-Then, run the development server with:
+Then, download all necessary packages:
+
+```bash
+yarn install
+```
+
+Lastly, run the development server with:
 
 ```bash
 yarn dev
